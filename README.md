@@ -4,8 +4,13 @@
 
 - 🌱 I’m currently learning how to implement Neural Network Algorithms
 - 👯 I’m looking to 'network' and collaborate with other data scientists
-- 📆 2021 Goal 1: Enroll in Masters Program and contribute multiple products to my GitHub
-- 📆 2021 Goal 2: Compete in multiple kaggle competitions
+## 2021 Goals
+- ✔️  Goal 1️⃣: Enroll in Masters Program 
+- 🔲  Goal 2️⃣: Complete Synth_Learning on my Github and make public (Python implementation of learning algorithms; inspired by Andrew Ng course and Scikit-Learn)
+- 🔲  Goal 3️⃣: Compete in multiple Kaggle competitions
+- 🔲  Goal 4️⃣: Complete Deep Learning Specialization on DeepLearning.ai
+- 🔲  Goal 5️⃣: Finish Data Structures and Algorithms curriculum (self-taught)
+- 🔲  Goal 6️⃣: Continue to dabble in C++ for fun 😃
 
 ### Connect with me:
 [<img align="left" alt="Scott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
