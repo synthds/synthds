@@ -1,10 +1,11 @@
 ### Greetings, I'm Scott Smith!
 
-## I'm a Husband, Data Scientist, and Life-Long Learner!!
+## I'm a 👫 Husband, 📝 Data Scientist, and 🏫Life-Long Learner!!
 
 - 🌱 I’m currently learning how to implement Neural Network Algorithms
 - 👯 I’m looking to 'network' and collaborate with other data scientists
-- 🥅 2021 Goals: Enroll in Masters Program and contribute multiple products to my GitHub
+- 📆 2021 Goal 1: Enroll in Masters Program and contribute multiple products to my GitHub
+- 📆 2021 Goal 2: Compete in multiple kaggle competitions
 
 ### Connect with me:
 [<img align="left" alt="Scott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
