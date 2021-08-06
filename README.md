@@ -7,7 +7,7 @@
 ## 2021 Goals
 - ✔️  Goal 1️⃣: Enroll in Masters Program 
 - 🔲  Goal 2️⃣: Complete Synth_Learning on my Github and make public (Python implementation of learning algorithms; inspired by Andrew Ng course and Scikit-Learn)
-- 🔲  Goal 3️⃣: Compete in multiple Kaggle competitions
+- 🔲  Goal 3️⃣: Complete multiple projects for portfolio (in both Python and R -- ML and Statistics)
 - 🔲  Goal 4️⃣: Complete Deep Learning Specialization on DeepLearning.ai
 - 🔲  Goal 5️⃣: Finish Data Structures and Algorithms curriculum (self-taught)
 - 🔲  Goal 6️⃣: Continue to dabble in C++ for fun 😃
