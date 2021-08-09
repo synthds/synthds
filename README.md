@@ -10,7 +10,7 @@
 - 🔲  Goal 3️⃣: Complete multiple projects for portfolio (in both Python and R -- ML and Statistics)
 - 🔲  Goal 4️⃣: Complete Practical Machine Learning (Sagemaker) Specialization on DeepLearning.ai
 - 🔲  Goal 5️⃣: Finish Data Structures and Algorithms curriculum (self-taught)
-- 🔲  Goal 6️⃣: Continue to dabble in C++ for fun 😃
+- 🔲  Goal 6️⃣: Complete Azure ML Certification
 
 ### Connect with me:
 [<img align="left" alt="Scott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
