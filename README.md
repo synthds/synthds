@@ -22,6 +22,7 @@
 <img align="left" alt="sklearn" width="26px" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png?raw=true" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/rstudio/rstudio-plain.svg" />
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="Sagemaker" width="26px" src="https://www.pngkit.com/png/full/246-2467384_how-to-use-aws-sagemaker-amazon-sagemaker-logo.png" />
 <img align="left" alt="Salesforce" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/salesforce/salesforce-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
