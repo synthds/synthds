@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning how to implement Neural Network Algorithms
 - 👯 I’m looking to 'network' and collaborate with other data scientists
 
-## 2021 Goals
-- ✔️  Goal 1️⃣: Enroll in Masters Program 
-- ✔️  Goal 2️⃣: Complete Deep Learning Course 1 on DeepLearning.ai
-- 🔲  Goal 3️⃣: Complete AWS Cloud Practitioner learning path and pass AWS Cloud Practitioner Exam
-- 🔲  Goal 4️⃣: Complete Algorithms course
-- ✔️  Goal 5️⃣: Upload 3 ML/Data Science Projects to Github
+## Current Goals
+- 🔲  Goal 1️⃣: Complete DeepLearning.ai Deep Learning Specialization
+- 🔲  Goal 2️⃣: Complete AWS Cloud Practitioner learning path and pass AWS Cloud Practitioner Exam
+- 🔲  Goal 3️⃣: Finish Algorithms text, complete competency in undergrad algorithms
+- 🔲  Goal 4️⃣: Understand best practices in DevOps
+- 🔲  Goal 5️⃣: Upload 3 ML/Data Science Projects to Github
 
 ### Connect with me:
 [<img align="left" alt="Scott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
