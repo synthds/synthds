@@ -2,15 +2,11 @@
 
 ## I'm a 👫 Husband, 📝 Data Scientist, and 🏫Life-Long Learner!!
 
-- 🌱 I’m currently learning how to implement Neural Network Algorithms
-- 👯 I’m looking to 'network' and collaborate with other data scientists
-
 ## Current Goals
-- 🔲  Goal 1️⃣: Complete DeepLearning.ai Deep Learning Specialization
-- 🔲  Goal 2️⃣: Complete AWS Cloud Practitioner learning path and pass AWS Cloud Practitioner Exam
-- 🔲  Goal 3️⃣: Finish Algorithms text, complete competency in undergrad algorithms
-- 🔲  Goal 4️⃣: Understand best practices in DevOps
-- 🔲  Goal 5️⃣: Upload 3 ML/Data Science Projects to Github
+- 🔲  Goal 1️⃣: Complete Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow Text
+- 🔲  Goal 2️⃣: Complete Coursera Machine Learning Python Course
+- 🔲  Goal 3️⃣: Complete CLSR Algorithms Course
+- 🔲  Goal 4️⃣: Complete Spark: The Definitive Guide
 
 ### Connect with me:
 [<img align="left" alt="Scott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
