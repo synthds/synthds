@@ -7,6 +7,7 @@
 - 🔲  Goal 2️⃣: Complete Coursera Machine Learning Python Course
 - 🔲  Goal 3️⃣: Complete CLSR Algorithms Course
 - 🔲  Goal 4️⃣: Complete Spark: The Definitive Guide
+- 🔲  Goal 5️⃣: Complete 2 Kaggle Competitions
 
 ## Completed Goals - 2022
 
