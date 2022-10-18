@@ -2,14 +2,12 @@
 
 ## I'm a 👫 Husband, 📝 Data Scientist, and 🏫Life-Long Learner!!
  
-## Current Goals - 2022
+## Current Goals
 - 🔲  Goal 1️⃣: Complete Hands-on Machine Learning with Scikit-Learn, Keras & Tensorflow Text
 - 🔲  Goal 2️⃣: Complete Coursera Machine Learning Python Course
 - 🔲  Goal 3️⃣: Complete CLSR Algorithms Course
 - 🔲  Goal 4️⃣: Complete Spark: The Definitive Guide
 - 🔲  Goal 5️⃣: Complete 2 Kaggle Competitions
-
-## Completed Goals - 2022
 
 ### Connect with me:
 [<img align="left" alt="Scott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
